@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <div>
-        Copyright <span className={styles.brand}>Loïc Imhof</span> &copy; |{" "}
+        Copyright <span className={styles.brand}>Mattia Harlacher & Julian Gnotke</span> &copy; |{" "}
         {new Date().getFullYear()}
       </div>
 
