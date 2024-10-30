@@ -1,0 +1,11 @@
+.container {
+  height: 90vh;
+}
+
+.image {
+  background-image: url("/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-width: 100%;
+  min-height: 100%;
+}
