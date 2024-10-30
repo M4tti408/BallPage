@@ -1,0 +1,23 @@
+.container {
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  font-size: 25px;
+}
+
+@media only screen and (max-width: 600px) {
+  .about {
+    margin-bottom: 20%;
+  }
+}
