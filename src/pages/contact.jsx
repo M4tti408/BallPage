@@ -28,7 +28,7 @@ export default function Contact() {
       formData.append(key, value);
     });
 
-    fetch("https://getform.io/f/2f6a65b2-b71a-4fb2-bdb8-2b31b2e386de", {
+    fetch("https://getform.io/f/akkkknoa", {
       method: "POST",
       body: formData,
     }).then(() =>
