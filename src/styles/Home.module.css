@@ -3,7 +3,7 @@
 }
 
 .image {
-  background-image: url("/bg.jpg");
+  background-image: url("../../public/images/products/ball7.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   min-width: 100%;

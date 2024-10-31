@@ -22,7 +22,7 @@ export default function NavBar() {
             <header>
                 <nav className={`nav`}>
                     <Link href={"/"}>
-                        <h1 className="logo">Fanpage</h1>
+                        <h1 className="logo">Ballpage</h1>
                     </Link>
                     <div
                         onClick={() => setNavActive(!navActive)}
